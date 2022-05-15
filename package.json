@@ -1,0 +1,8 @@
+{
+  "name": "locust-io-demo",
+  "description": "Locust API performance testing demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
