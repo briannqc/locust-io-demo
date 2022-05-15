@@ -10,4 +10,3 @@ locust -V
 echo 'Starting node server'
 npm install
 curl http://jsonplaceholder.typicode.com/db >db.json
-./node_modules/.bin/json-server --watch db.json
